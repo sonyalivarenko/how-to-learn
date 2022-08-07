@@ -248,7 +248,7 @@
 .feynman__title {
   width: 648px;
   padding-top: 100px;
-  padding-bottom: 70px; 
+  padding-bottom: 70px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
@@ -320,12 +320,6 @@
   margin-bottom: 90px;
 }
 
-/*.table_centre_dark {
-    margin-left: auto;
-  margin-right: auto;
-  margin-top: 0;
-  padding: 0;
-}*/
 
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
@@ -359,8 +353,7 @@
   height: 877px;
   width: 877px;
   margin: 0;
-  padding: 0
-  
+  padding: 0;
 }
 
 .footer {
