@@ -1,0 +1,8 @@
+.resources {
+  padding-top: 100px;
+  margin-left: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
